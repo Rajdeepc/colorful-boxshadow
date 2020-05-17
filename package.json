@@ -1,0 +1,22 @@
+{
+  "name": "colorful-box-shadow",
+  "version": "1.0.0",
+  "description": "Awesome colorful box shadows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajdeepc/colorful-boxshadow.git"
+  },
+  "keywords": [
+    "boxshadows"
+  ],
+  "author": "Rajdeep Chandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajdeepc/colorful-boxshadow/issues"
+  },
+  "homepage": "https://github.com/Rajdeepc/colorful-boxshadow#readme"
+}

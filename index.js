@@ -12,7 +12,7 @@ const hexToRGBA = (hex, opacity) => {
   );
 };
 
-const colorShadow = (options) => {
+const colorBoxShadow = (options) => {
   // lets rundown through the images
   let images = document.querySelectorAll(".applyshadow");
 
