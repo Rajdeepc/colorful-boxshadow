@@ -30,20 +30,20 @@ colorBoxShadow supports two options, both of which are optional
 
 light-1:
 
-['light-1'](light1.png)
+!['light-1'](light1.png)
 
 light-2:
 
-['light-2'](light2.png)
+!['light-2'](light2.png)
 
 medium-1:
 
-['medium-1'](medium1.png)
+!['medium-1'](medium1.png)
 
 medium-2:
 
-['medium-2'](medium2.png)
+!['medium-2'](medium2.png)
 
 hard:
 
-['hard'](hard.png)
+!['hard'](hard.png)
