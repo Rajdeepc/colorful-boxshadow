@@ -14,7 +14,7 @@ const hexToRGBA = (hex, opacity) => {
 
 const colorBoxShadow = (options) => {
   // lets rundown through the images
-  let images = document.querySelectorAll(".applyshadow");
+  let images = document.querySelectorAll(".colorBoxShadow");
 
   //set your options
 
